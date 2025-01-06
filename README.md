@@ -1,4 +1,4 @@
-//[![MasterHead](https://r.resimlink.com/bJI54Gzne.jpeg)
+#[![MasterHead](https://r.resimlink.com/bJI54Gzne.jpeg)
 <h1 align="center">Hi 👋, I'm Muhammed Ali Yağcı</h1>
 <h3 align="center">A Passionate FullStack Developer from Turkey</h3>
 
