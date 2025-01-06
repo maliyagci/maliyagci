@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammed ali yağcı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed ali yağcı" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammed-ali-ya%c4%9fci-b1b7261b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-ali-ya%c4%9fci-b1b7261b6/" height="30" width="40" /></a>
 <a href="https://instagram.com/imalifalitiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imalifalitiko" height="30" width="40" /></a>
 </p>
 
@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maliyagci&show_icons=true&locale=en" alt="maliyagci" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maliyagci&" alt="maliyagci" /></p>
-
